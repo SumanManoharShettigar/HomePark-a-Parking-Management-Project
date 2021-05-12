@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@500&display=swap');
+
+.body{  
+    
+}
+/*Login contact*/
+#contact1{
+    text-decoration: none;
+    float: right;
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    background-color: black;
+    border:3px solid white;
+    border-radius: 5px;
+    padding: 3px;
+    
+    
+    
+}
+
+#contact2{ 
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    bottom: 10px;
+    right: 120px;
+    
+    border:3px solid white;
+    border-radius: 5px;
+    padding: 3px;
+    
+    
+}
+
+/*Login details*/
+#login_btn{
+    background-color: #007bff;
+    border-radius: 6px;
+    color: white;
+    font-size: 20px;
+     margin-left:230px;
+    cursor: pointer;
+  
+}
+#login_btn:hover{
+    background-color: #57e63e;
+    border-radius: 6px;
+    color: white;
+    font-size: 20px;
+     margin-left:230px;
+    cursor: pointer;
+  
+}
+
+#form1{
+    padding: 10px 20px 20px 20px; 
+    background-color: #00000081;
+    width:300px;
+  margin:30px auto;
+    border-radius: 25px;
+    border:4px solid white;
+    
+   
+}
+.login_chk{
+    width: 20px;
+    height: 20px;
+    
+}
+#logint{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    font-family: sans-serif
+}
+
+.login_text{
+    color: white;
+    font-size: 25px;
+    
+    
+    
+}
+.login_input{
+    border-radius: 5px;
+    border: 3px solid black;
+    width: 290px;
+    font-size: 20px;
+    
+    
+    
+    
+    
+}
+/**/
+
+
+/*homepark*/
+
+#wel{
+    color: white;
+    font-size: 40px;
+    line-height: 185px;
+    position: absolute;
+    bottom:0px ;
+    left: 10px;
+}
+#homepark{
+    color: white;
+    font-size: 60px;
+    line-height: 80px;
+    position: absolute;
+    bottom: 0;
+    left: 10px;
+}
+/**/
+
+
+
+
+
+
+/*Table*/
+
+.content-table{
+    border-collapse:collapse;
+    margin:35px 0;
+    font-size:1.4em;
+    min-width: 500px;
+    border-radius: 7px 7px 0 0;
+    overflow: hidden;
+    box-shadow: 0 0 50 px rgba(0, 0,0, 0.15);
+}
+
+
+.content-table thead tr {
+    background-color:#606060FF ;
+    color: #ffffff;
+    text-align: center;
+    font-weight: bold;
+}
+
+.content-table th,
+.content-table td {
+    padding: 14px 17px;
+}
+
+.content-table tbody tr {
+    border-bottom:  2px solid #dddddd;
+}
+
+.content-table tbody tr:nth-of-type(odd){
+    background-color:#f3f3f3;
+}
+
+.content-table tbody tr: last-of-type{
+    border-bottom:2px solid #606060FF ;
+}
+.body-bg  {
+    /background-image:url("1Booking_files/3.jpg");/
+    
+    background-size: 100% 100%;
+	 z-index:100;
+}
+
+body{
+    
+    background-size: 100vw 100vh;
+    font-family: 'Public Sans', monospace; 
+}
+
+/*/Table*/
+
+
+
+
